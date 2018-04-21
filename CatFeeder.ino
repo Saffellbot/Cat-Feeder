@@ -23,7 +23,7 @@
 #define NODEID        7  
 #define GATEWAYID     1
 #define FREQUENCY     RF69_915MHZ
-#define ENCRYPTKEY    "SaffellBot123456" //exactly the same 16 characters/bytes on all nodes!
+#define ENCRYPTKEY    "16CHARACTERS1234" //exactly the same 16 characters/bytes on all nodes!
 //#define IS_RFM69HW    //uncomment only for RFM69HW! Remove/comment if you have RFM69W!
 
 //Connections//
